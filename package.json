@@ -26,6 +26,21 @@
       "last 1 chrome version",
       "last 1 firefox version",
       "last 1 safari version"
-    ]
-  }
+    ],
+    "type": "module"
+  },
+  "description": "## Learning Goals",
+  "main": "src/index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fusion407/react-hooks-props-basics.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fusion407/react-hooks-props-basics/issues"
+  },
+  "homepage": "https://github.com/fusion407/react-hooks-props-basics#readme"
 }
